@@ -1,1 +1,1 @@
-Check it out Live : https://counter-app-react09.netlify.app/
+Check it out Live : https://counter-apps-react09.netlify.app/
